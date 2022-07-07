@@ -19,10 +19,12 @@
            
            s1.number1 = 40;
            s1.number2 = 20; 
-           s1.do substraction();
+           s1.do substraction(); 
+
+
             }
 
-       }
+       } 
 
 
 
